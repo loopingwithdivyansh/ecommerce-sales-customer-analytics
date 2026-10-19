@@ -27,3 +27,6 @@ The dataset contains multiple currencies. Financial totals are reported in datas
 Created as a data analytics portfolio project to demonstrate skills in Excel, SQL Server, and Power BI.
 ## Excel Dashboard
 ![Excel Dashboard](Excel_Dashboard.png)
+
+## power BI Dashboard
+![Power BI Dashboard](PowerBI_Dashboard.png)
