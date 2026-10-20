@@ -30,3 +30,5 @@ Created as a data analytics portfolio project to demonstrate skills in Excel, SQ
 
 ## power BI Dashboard
 ![Power BI Dashboard](PowerBI_Dashboard.png)
+
+**SQL Analysis:** [Ecommerce_Sales_Analytics.sql](Ecommerce_Sales_Analytics.sql) — SQL queries covering sales trends, profitability, customer segments, returns, marketing channels, and delivery performance.
